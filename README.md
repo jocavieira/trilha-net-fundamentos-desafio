@@ -1,4 +1,4 @@
-# Parking System Project
+# Parking System Project :car:
 
 This project is part of the **DIO Fullstack Bootcamp** and demonstrates basic **C# console application development**.
 
